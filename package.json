@@ -10,7 +10,7 @@
   "author": "wamei",
   "email": "wamei.cho@gmail.com",
   "devDependencies": {
-    "babelify": "^6.4.0",
+    "babelify": "^7.3.0",
     "browserify": "^11.2.0",
     "browserify-shim": "^3.8.11",
     "gulp": "^3.9.0",
